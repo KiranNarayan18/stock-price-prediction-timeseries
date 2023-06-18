@@ -2,4 +2,8 @@ numpy
 pandas
 matplotlib
 scipy
+notebook
+statsmodels
+scikit-learn
+dill
 -e .
