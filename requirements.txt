@@ -6,4 +6,5 @@ notebook
 statsmodels
 scikit-learn
 dill
+flask
 -e .

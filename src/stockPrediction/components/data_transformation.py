@@ -37,8 +37,8 @@ class DataTransformation:
 
  
             return(
-                train_df['Close'],
-                test_df['Close']                
+                train_df,
+                test_df                
             )
 
 
