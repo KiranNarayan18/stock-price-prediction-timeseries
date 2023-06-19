@@ -3,10 +3,8 @@
 
 ## index page
 
-![Alt Text](https://github.com/kiran-narayan1/stock_price_prediction_timeseries/blob/main/static/plot.jpg)
-
+![Alt Text]([static\plot.jpg](https://github.com/kiran-narayan1/stock_price_prediction_timeseries/blob/main/static/timeseries_index.png))
 
 ## output 
 
-![Alt Text](static\plot.jpg)
-
+![Alt Text](https://github.com/kiran-narayan1/stock_price_prediction_timeseries/blob/main/static/plot.jpg)
