@@ -6,7 +6,6 @@
 ![Alt Text](static\timeseries_index.png)
 
 
-
 ## output 
 
 ![Alt Text](static\plot.jpg)
